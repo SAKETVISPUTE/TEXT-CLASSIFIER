@@ -1,2 +1,2 @@
 # TEXT-CLASSIFIER
-USE additional train.csv
+Fine-tuned a BERT model for 43-label text classification with advanced preprocessing and systematic hyperparameter tuning. Evaluated performance using accuracy, precision, recall, and F1-score to ensure robust and reliable results. Additionally, implemented a custom Transformer-based classifier from scratch using Word2Vec embeddings, sinusoidal positional encodings, multi-head self-attention, and feed-forward layers, enabling end-to-end training and evaluation.
